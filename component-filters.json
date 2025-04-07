@@ -31,18 +31,13 @@
     ]
   },
   {
-    "id": "columns1",
-    "components": [
-      "column"
-    ]
-  },
-  {
     "id": "column",
     "components": [
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "hero"
     ]
   }
 ]
